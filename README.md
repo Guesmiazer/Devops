@@ -1,3 +1,3 @@
 # Devops
-hello azer cv 
+hello 
 hello world
